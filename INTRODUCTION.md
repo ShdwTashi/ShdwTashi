@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @ShdwTashi
-- 👀 I’m interested in making Rhythm Games
-- 🌱 I’m currently learning [ERROR]
-- 💞️ I’m looking to collaborate on [ERROR]
-- 📫 How to reach me (shdwtakashi@gmail.com)
+- Im currently learning how to make code so this page wont have any updates until then :P
